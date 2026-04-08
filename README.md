@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mzml-gg/Api-creds.json-/main/IMG-20260320-WA0382.jpg" alt="Balis Banner" width="100%">
+  <img src="https://files.catbox.moe/ndtjkv.jpg" alt="Balis Banner" width="100%">
 </p>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb7AkG84inotOc8BXE1K">
-    ٺـم࣬ ٺحہּٰډيـثَ ۿـﮂ۬أ أݪـم࣬سٰٺــوٰډـ؏ٚ  بٚٺــأࢪيخَ ؍ 🌸♡゙ ُ𓂁 (2026-3-22)
+  <a href="https://whatsapp.com/channel/0029VbCDbWh8KMqfkFwaRk1b 
+    𝚂𝚞𝚗𝚐 𝚋𝚘𝚝 (2026-4-5)
   </a>
 </div>
 
@@ -15,10 +15,10 @@
 </div>
 
 <h1 align="center">
-  <span style="color:red; font-size:55px;">𝑴𝑶𝑵𝑻𝑬 𝑫𝑬𝑽</span>
+  <span style="color:red; font-size:55px;">𝑩𝒂𝒓𝒉𝒐𝒖𝒎 𝑫𝑬𝑽</span>
 </h1>
 
-<h3 align="center">𝑴𝑶𝑵𝑻𝑬 𝑻𝑶𝑷 𝟏 𝑫𝑬𝑽 𝑨𝑹</h3>
+<h3 align="center">𝑩𝑨𝑹𝑯𝑶𝑼𝑴 𝑻𝑶𝑷 𝟏 𝑫𝑬𝑽</h3>
 
 ---
 
@@ -28,11 +28,13 @@
 
 ---
 
-## 🇸🇩 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+## 🇪🇬 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
-**𝑴𝒐𝒏𝒕𝒆 𝑫𝒆𝒗**  
-📞 +249 92242 0554  
-🇸🇩 𝑺𝒖𝒅𝒂𝒏
+**𝑩𝒂𝒓𝒉𝒐𝒖𝒎 𝑫𝒆𝒗**  
+
+📞 +201067668406
+
+🇪🇬 𝑬𝒈𝒚𝒑𝒕 
 
 ---
 
@@ -73,4 +75,4 @@ npm install
 ✔ 𝑹𝒆𝒑𝒍𝒂𝒄𝒆𝒔 𝒎𝒆𝒏𝒕𝒊𝒐𝒏 𝒕𝒆𝒙𝒕 𝒄𝒐𝒓𝒓𝒆𝒄𝒕𝒍𝒚
 ✔ 𝑾𝒐𝒓𝒌𝒔 𝒘𝒊𝒕𝒉 𝒎𝒖𝒍𝒕𝒊-𝒅𝒆𝒗𝒊𝒄𝒆
 �
-🔥 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑴𝑶𝑵𝑻𝑬 𝑫𝑬𝑽 🔥 
+🔥 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑩𝑨𝑹𝑯𝑶𝑼𝑴 𝑫𝑬𝑽🔥 
