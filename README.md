@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VbCDbWh8KMqfkFwaRk1b 
-    𝚂𝚞𝚗𝚐 𝚋𝚘𝚝 (2026-4-5)
+  <a href="https://whatsapp.com/channel/0029VbCDbWh8KMqfkFwaRk1b 𝚂𝚞𝚗𝚐 𝚋𝚘𝚝 (2026-4-5)
   </a>
 </div>
 
@@ -29,9 +28,7 @@
 ---
 
 ## 🇪🇬 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-
 **𝑩𝒂𝒓𝒉𝒐𝒖𝒎 𝑫𝒆𝒗**  
-
 📞 +201067668406
 
 🇪🇬 𝑬𝒈𝒚𝒑𝒕 
